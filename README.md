@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Where you can reach me: <a href="https://www.linkedin.com/in/gaetano-russino-52863a23a/">
+                          <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="Linkedin badge" style="vertical-align:top; margin:6px 4px">
+                          </a>
+
 ---
 
 |My stats |My languages |
@@ -54,3 +59,4 @@ Other tools I use:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230A0FFF?style=for-the-badge&logo=postman&logoColor=white)
